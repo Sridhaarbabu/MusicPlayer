@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsmSafone/MusicPlayer)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sridhaarbabu/MusicPlayer
 
 ## ☁️ <a name="self_host"></a>Self Host
 
@@ -80,7 +80,7 @@ $ sudo docker run musicplayer
 
 ## 📄 <a name="commands"></a>Commands
 
-Command | Description
+Command | Desc
 :--- | :---
 • !ping | Check if alive or not
 • !start / !help | Show the help for commands
